@@ -21,6 +21,10 @@ header {
   border-radius: 50%;
 }
 
+.img-fluid{
+  max-width: 100%;
+}
+
 .logo {
   background: rgb(78, 25, 110);
   background: linear-gradient(
