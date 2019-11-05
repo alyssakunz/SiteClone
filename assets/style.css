@@ -1,0 +1,40 @@
+body {
+  min-height: 100vh;
+}
+
+header {
+  background: rgb(78, 25, 110);
+  background: linear-gradient(
+    215deg,
+    rgb(56, 16, 82) 0%,
+    rgb(167, 57, 235) 31%,
+    rgb(219, 153, 255) 50%,
+    rgba(255, 255, 255, 1) 50%
+  );
+}
+
+.video-description .btn {
+  border-radius: 15px;
+}
+
+.cat-portrait {
+  border-radius: 50%;
+}
+
+.btn.spill{
+  top: -1em;
+}
+.img-fluid{
+  max-width: 100%;
+}
+
+.logo {
+  background: rgb(78, 25, 110);
+  background: linear-gradient(
+    270deg,
+    rgb(33, 9, 48) 0%,
+    rgb(68, 17, 100) 58%,
+    rgb(162, 63, 216) 100%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
